@@ -1,0 +1,382 @@
+{
+  "id": "sun-dschorno",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@dschorno Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_93aca5e2dfee",
+    "display_name": "dschorno",
+    "user_id": "@dschorno",
+    "description": "Community Archive-derived proof-of-search sun for @dschorno.",
+    "document_count": 17564,
+    "word_count": 326153,
+    "active_days": 2242,
+    "emissions": [
+      "Lol",
+      "Think",
+      "Lmao",
+      "Good",
+      "Really",
+      "Time"
+    ],
+    "generated_at": "2026-06-27T15:54:55.071692+00:00",
+    "color": "#f59e0b",
+    "mass": 12.695
+  },
+  "planets": [
+    {
+      "id": "planet_ff4479eb81bb",
+      "name": "Lol",
+      "summary": "Archive cluster around lol: 14296 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "lol",
+        "know",
+        "should",
+        "want",
+        "goblinodds"
+      ],
+      "artifacts": [
+        {
+          "id": "art_7c1bb1f989ce",
+          "title": "Lol receipt from 2024-07-04",
+          "excerpt": "the fundamental problem with nonalchoholic cocktails is that you need something slightly repulsive in the drink so that you dont drink it too fast, and alchohol fills this role while also being desirable. Maybe could use gross but healthy supplements like creatine or something",
+          "source_document_id": "1808963444378587448",
+          "timestamp": "2024-07-04T20:37:48+00:00",
+          "url": "https://x.com/dschorno/status/1808963444378587448",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: lol, know, should, want."
+        },
+        {
+          "id": "art_bd137fff41da",
+          "title": "Lol receipt from 2023-10-10",
+          "excerpt": "these stupid fucking prism glasses have honestly changed my life forever I don't have to look down at my phone or books anymore and my posture is getting better https://t.co/tsaAiIVdpo",
+          "source_document_id": "1711787663173505232",
+          "timestamp": "2023-10-10T16:55:57+00:00",
+          "url": "https://x.com/dschorno/status/1711787663173505232",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: lol, know, should, want."
+        },
+        {
+          "id": "art_cea25077f99d",
+          "title": "Lol receipt from 2023-10-28",
+          "excerpt": "every american citizen should get like 3-5 guest passes for their friends to be able to move to the country",
+          "source_document_id": "1718396688916984222",
+          "timestamp": "2023-10-28T22:37:51+00:00",
+          "url": "https://x.com/dschorno/status/1718396688916984222",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: lol, know, should, want."
+        },
+        {
+          "id": "art_2125afee50fa",
+          "title": "Lol receipt from 2023-10-16",
+          "excerpt": "wait so data structures and algorithmic complexity are easy as fuck or am I missing something?",
+          "source_document_id": "1713924879295361199",
+          "timestamp": "2023-10-16T14:28:29+00:00",
+          "url": "https://x.com/dschorno/status/1713924879295361199",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: lol, know, should, want."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_4fd2603a8c9c",
+      "proof_score": 1,
+      "mass": 37.202,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_79ce2aa40b40",
+      "name": "Think",
+      "summary": "Archive cluster around think: 846 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "really",
+        "actually",
+        "good",
+        "don"
+      ],
+      "artifacts": [
+        {
+          "id": "art_9cf320d99f47",
+          "title": "Think receipt from 2023-07-06",
+          "excerpt": "@Astatide42 this just makes me feel like tables are strange rather than think magnets are normal lmao",
+          "source_document_id": "1677100281379815424",
+          "timestamp": "2023-07-06T23:40:40+00:00",
+          "url": "https://x.com/dschorno/status/1677100281379815424",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, really, actually, good."
+        },
+        {
+          "id": "art_99b752642472",
+          "title": "Think receipt from 2024-11-10",
+          "excerpt": "today we went to the zoo and an elephant looked at me, I think it might have been like knowingly smirking? the other people I was with confirmed that it definitely was looking at me so I'm not crazy. \n\nwhat did he know",
+          "source_document_id": "1855489143423611312",
+          "timestamp": "2024-11-10T05:54:19+00:00",
+          "url": "https://x.com/dschorno/status/1855489143423611312",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, really, actually, good."
+        },
+        {
+          "id": "art_929fe575a6d7",
+          "title": "Think receipt from 2023-08-21",
+          "excerpt": "@shaggysurvives I think the idea isn't that the movies are about those philosophies, it's that if you misunderstand those philosophies and apply them in a stupid way then you end up like the characters in those movies.",
+          "source_document_id": "1693636430906425794",
+          "timestamp": "2023-08-21T14:49:26+00:00",
+          "url": "https://x.com/dschorno/status/1693636430906425794",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, really, actually, good."
+        },
+        {
+          "id": "art_2a1d12727f83",
+          "title": "Think receipt from 2023-03-28",
+          "excerpt": "how do I start lifting? is that something I want to do? if I was a\nhuge and muscular bodybuilder would normal people like me more or would it be all weird perverts? would you think I was cool if I could crush a watermelon with my grip strength? let me know in the comments below",
+          "source_document_id": "1640584145071112193",
+          "timestamp": "2023-03-28T05:18:35+00:00",
+          "url": "https://x.com/dschorno/status/1640584145071112193",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, really, actually, good."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_9f373d41e780",
+      "proof_score": 1,
+      "mass": 30.495,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_fc0047ae1e9a",
+      "name": "Lmao",
+      "summary": "Archive cluster around lmao: 826 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "lmao",
+        "actually",
+        "yeah",
+        "really",
+        "good"
+      ],
+      "artifacts": [
+        {
+          "id": "art_9a4905036f83",
+          "title": "Lmao receipt from 2024-04-22",
+          "excerpt": "@St_Rev wow i did not expect it to be so trivially disprovable lmao\n\nhttps://t.co/XhZ0hPNrbQ",
+          "source_document_id": "1782231230110695766",
+          "timestamp": "2024-04-22T02:13:32+00:00",
+          "url": "https://x.com/dschorno/status/1782231230110695766",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: lmao, actually, yeah, really."
+        },
+        {
+          "id": "art_9f0546f06b63",
+          "title": "Lmao receipt from 2025-02-21",
+          "excerpt": "how rude would it be to tag people in this lmao",
+          "source_document_id": "1893067981841666056",
+          "timestamp": "2025-02-21T22:39:13+00:00",
+          "url": "https://x.com/dschorno/status/1893067981841666056",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: lmao, actually, yeah, really."
+        },
+        {
+          "id": "art_e9558db96194",
+          "title": "Lmao receipt from 2023-03-15",
+          "excerpt": "my hot take is that manspaining actually is a real dominance phenomenon that's distinct from plain deep-dive explanations, and that it is very annoying and people are right to complain about it lmao",
+          "source_document_id": "1635820781455425537",
+          "timestamp": "2023-03-15T01:50:41+00:00",
+          "url": "https://x.com/dschorno/status/1635820781455425537",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: lmao, actually, yeah, really."
+        },
+        {
+          "id": "art_6b27e94a32a8",
+          "title": "Lmao receipt from 2024-04-22",
+          "excerpt": "@St_Rev jesus lmao https://t.co/mlcB2FzYp7",
+          "source_document_id": "1782235131673194992",
+          "timestamp": "2024-04-22T02:29:02+00:00",
+          "url": "https://x.com/dschorno/status/1782235131673194992",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: lmao, actually, yeah, really."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_261d49434437",
+      "proof_score": 1,
+      "mass": 28.695,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_6d497e84c660",
+      "name": "Good",
+      "summary": "Archive cluster around good: 629 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "good",
+        "actually",
+        "thing",
+        "really",
+        "bad"
+      ],
+      "artifacts": [
+        {
+          "id": "art_a3fc2dd578a2",
+          "title": "Good receipt from 2023-11-22",
+          "excerpt": "dates are unimaginably delicious. I thought they were trash because people use them in baking instead of sugar but on their own they are almost bizarrely good. I didn't realize a fruit could be creamy?",
+          "source_document_id": "1727176890216329632",
+          "timestamp": "2023-11-22T04:07:14+00:00",
+          "url": "https://x.com/dschorno/status/1727176890216329632",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, actually, thing, really."
+        },
+        {
+          "id": "art_5fb353722e48",
+          "title": "Good receipt from 2025-05-12",
+          "excerpt": "@shaggysurvives i dont like that hes posted so many, i dont like the feeling that if i spend a little time looking at a piece then theres a good chance im looking at it for longer than the artist did.",
+          "source_document_id": "1921979534749962307",
+          "timestamp": "2025-05-12T17:23:24+00:00",
+          "url": "https://x.com/dschorno/status/1921979534749962307",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, actually, thing, really."
+        },
+        {
+          "id": "art_214851712c20",
+          "title": "Good receipt from 2025-07-17",
+          "excerpt": "good afternoon my friends https://t.co/MfsMSsxOzf",
+          "source_document_id": "1945980540873773096",
+          "timestamp": "2025-07-17T22:54:50+00:00",
+          "url": "https://x.com/dschorno/status/1945980540873773096",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, actually, thing, really."
+        },
+        {
+          "id": "art_87db83903d54",
+          "title": "Good receipt from 2021-01-28",
+          "excerpt": "are there any good active postrat discords?\n\nI need a place to post memes i find https://t.co/YDWU0rfWeC",
+          "source_document_id": "1354633041914654721",
+          "timestamp": "2021-01-28T03:30:59+00:00",
+          "url": "https://x.com/dschorno/status/1354633041914654721",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, actually, thing, really."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_66257723b2a2",
+      "proof_score": 0.995,
+      "mass": 28.824,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_fb4b06911ce0",
+      "name": "Really",
+      "summary": "Archive cluster around really: 505 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "really",
+        "don",
+        "feel",
+        "dont",
+        "want"
+      ],
+      "artifacts": [
+        {
+          "id": "art_65d81c781b64",
+          "title": "Really receipt from 2026-03-17",
+          "excerpt": "im probably one of the only people who believes that everyone on twitter really is 130 IQ",
+          "source_document_id": "2034009417918910941",
+          "timestamp": "2026-03-17T20:50:09+00:00",
+          "url": "https://x.com/dschorno/status/2034009417918910941",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, don, feel, dont."
+        },
+        {
+          "id": "art_6002ffbbf8a3",
+          "title": "Really receipt from 2023-04-02",
+          "excerpt": "once I was at a friend's house and his younger sister was having a dark night of the soul re: not wanting to eat broccoli, and I said \"have you tried it with butter and salt on it?\" and that really just turned it around for her\n\nconvinced the same could have worked here https://t.co/HEbj5gKTHH",
+          "source_document_id": "1642601882567983104",
+          "timestamp": "2023-04-02T18:56:21+00:00",
+          "url": "https://x.com/dschorno/status/1642601882567983104",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, don, feel, dont."
+        },
+        {
+          "id": "art_03bfb5d796c8",
+          "title": "Really receipt from 2024-07-25",
+          "excerpt": "@samswoora this is why i order a chocolate milk, really devastating to a certain type of person's world view",
+          "source_document_id": "1816269701636612164",
+          "timestamp": "2024-07-25T00:30:16+00:00",
+          "url": "https://x.com/dschorno/status/1816269701636612164",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, don, feel, dont."
+        },
+        {
+          "id": "art_2161649864e1",
+          "title": "Really receipt from 2023-12-14",
+          "excerpt": "i dont really like opening my heart to someone and getting rejected but im probably going to keep doing that shit.",
+          "source_document_id": "1735176251613306906",
+          "timestamp": "2023-12-14T05:53:51+00:00",
+          "url": "https://x.com/dschorno/status/1735176251613306906",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, don, feel, dont."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_0cec196864ee",
+      "proof_score": 0.973,
+      "mass": 28.728,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_2ae2b17625a6",
+      "name": "Time",
+      "summary": "Archive cluster around time: 462 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "time",
+        "first",
+        "every",
+        "long",
+        "actually"
+      ],
+      "artifacts": [
+        {
+          "id": "art_3eb700d51d72",
+          "title": "Time receipt from 2025-02-21",
+          "excerpt": "douglas coupland apparently spent most of his time lying around depressed until one day he \"just got over himself\" and then he immediately became an extremely prolific writer and artist. \n\nthis is all that i want for myself. how can i do it?",
+          "source_document_id": "1893065838577721804",
+          "timestamp": "2025-02-21T22:30:42+00:00",
+          "url": "https://x.com/dschorno/status/1893065838577721804",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, first, every, long."
+        },
+        {
+          "id": "art_e474df91aa6e",
+          "title": "Time receipt from 2025-07-11",
+          "excerpt": "@hermitfriend One time a friend of mine sung by a bee for the first time and had a panic attack about the idea that they could be allergic: fun fact the symptoms for a panic attack and for an allergic reaction are identical",
+          "source_document_id": "1943744342298099826",
+          "timestamp": "2025-07-11T18:48:58+00:00",
+          "url": "https://x.com/dschorno/status/1943744342298099826",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, first, every, long."
+        },
+        {
+          "id": "art_289d2915804a",
+          "title": "Time receipt from 2023-07-06",
+          "excerpt": "wait hold on.. magnets are fucking strange right? they exert force.. do they run out over time",
+          "source_document_id": "1677086376402259970",
+          "timestamp": "2023-07-06T22:45:25+00:00",
+          "url": "https://x.com/dschorno/status/1677086376402259970",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, first, every, long."
+        },
+        {
+          "id": "art_8cc1007846ea",
+          "title": "Time receipt from 2024-03-12",
+          "excerpt": "if I actually engage with all of this gay meditation crap will it actually make me stop feeling like such a loser or is it just a waste of time\n\nmy vague impression is that the solutions it offers are either \"soft-lobotomy\" or \"on-tap jhanagooning\"",
+          "source_document_id": "1767655162481684943",
+          "timestamp": "2024-03-12T20:53:26+00:00",
+          "url": "https://x.com/dschorno/status/1767655162481684943",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, first, every, long."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_88f0d6be31df",
+      "proof_score": 0.964,
+      "mass": 28.565,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
